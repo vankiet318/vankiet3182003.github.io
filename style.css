@@ -1,0 +1,14 @@
+body {
+  font-family: monospace;
+  color: black;
+}
+
+body #content .menu {
+  font-size: 25px;
+  float: left;
+  width: 50%;
+}
+'
+body #addition {
+  float: left;
+}
